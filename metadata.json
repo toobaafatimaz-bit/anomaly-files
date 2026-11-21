@@ -1,0 +1,6 @@
+{
+  "name": "Anomaly Files",
+  "description": "First-person 3D psychological horror detective investigation game for the Department of Unusual Incidents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anomaly Files</string>
+    <string name="organization_name">Department of Unusual Incidents</string>
+    <string name="organization_abbr">DUI // SECTOR 04</string>
+    <string name="tagline">Every Mystery Has a Pattern. Every Pattern Has a Lie.</string>
+    <string name="intro_voice_line">Welcome, Investigator. Your previous assignment has been classified. You don\'t remember what happened, and that\'s probably for the best.</string>
+    <string name="cd_hq_banner">Department of Unusual Incidents briefing room</string>
+    <string name="cd_case_apartment">Blackwood Residential Complex hallway</string>
+    <string name="cd_personnel_photo">Investigator personnel photograph with hidden figure</string>
+    <string name="cd_anomaly_entity">Unidentified anomaly silhouette in corridor</string>
+</resources>
